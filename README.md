@@ -1,4 +1,4 @@
-# odin-recipes_1.2
+# odin-recipes_OLD
 
 First project for the TOP - repository replacement as I could figure out how to fix (main -> main(non-fast-forward)
 
